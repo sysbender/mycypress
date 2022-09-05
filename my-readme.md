@@ -89,3 +89,4 @@ document command
 ".then" yield the result 
 .then( function( para){ console.log(para.text()) } ) 
 
+## iterate
