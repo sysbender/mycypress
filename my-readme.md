@@ -75,3 +75,17 @@ cy.get("[name='email'][placeholder='Email Address']")
 // by xpath
 cy.xpath("//input[@name='first_name']")
 ```
+
+
+## assert
+
+chai jquery
+
+contains command
+
+document command
+
+## promise 
+".then" yield the result 
+.then( function( para){ console.log(para.text()) } ) 
+
